@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Diego
 
-<!--
-**diegourquiola/diegourquiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student graduating in **2026**, interested in **software engineering** and **data-focused roles**. I enjoy building systems that are clear, practical, and easy to reason about — from backend services to small full-stack projects.
 
-Here are some ideas to get you started:
+### 🔭 What I’m working on
+- **Trevecca-pedia** — a multi-service wiki platform (web, auth, content)
+- **Authentication systems** (JWT-based, service boundaries, security basics)
+- Improving and documenting past projects for my portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech & Tools
+- **Languages:** Java, C++, Python, SQL, JavaScript, HTML/CSS  
+- **Concepts:** Data Structures & Algorithms, Service Design, Authentication  
+- **Tools:** Git/GitHub, Docker (basics), VS Code
+
+### 📚 What I’m learning
+- Backend architecture and service communication
+- Secure authentication & authorization patterns
+- Writing clearer technical documentation
+
+### 🧠 Projects
+- **Trevecca-pedia** — service-based wiki platform  
+- **Huffman Encoding / Decoding** — data compression with trees  
+- **Arkanoid Game Improvements** — C++/Qt gameplay and logic enhancements  
+
+### 💼 Experience
+- **T-Mobile — Bilingual Mobile Expert**  
+  Solving customer technical and billing issues daily, explaining complex problems clearly, and working in fast-paced environments.
+
+### 📫 Let’s connect
+- GitHub: [@diegourquiola](https://github.com/diegourquiola)
+- LinkedIn: [*(add link here)*](https://www.linkedin.com/in/diegourquiola0806/)
+- Portfolio: [*(GitHub Pages site coming soon)*](https://diegourquiola.github.io/)
+
+---
+
+⚡ *I like projects that actually work, not just ones that look good on slides.*
