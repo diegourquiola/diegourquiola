@@ -28,8 +28,8 @@ I'm a Computer Science student graduating in **2026**, interested in **software 
 
 ### 📫 Let’s connect
 - GitHub: [@diegourquiola](https://github.com/diegourquiola)
-- LinkedIn: [*(add link here)*](https://www.linkedin.com/in/diegourquiola0806/)
-- Portfolio: [*(GitHub Pages site coming soon)*](https://diegourquiola.github.io/)
+- LinkedIn: (https://www.linkedin.com/in/diegourquiola0806/)
+- Portfolio: [GitHub Pages site](https://diegourquiola.github.io/)
 
 ---
 
